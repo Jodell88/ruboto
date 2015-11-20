@@ -8,7 +8,7 @@ android:
 
 os:
   - linux
-  - osx
+#  - osx
 
 before_install:
   - export ANDROID_OS=$ANDROID_TARGET
